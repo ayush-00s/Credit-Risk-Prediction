@@ -10,7 +10,7 @@ of serious loan delinquency within 2 years, based on the
 
 ## 📸 Application Screenshot
 <p align="center">
-  <img src="images/result.png" alt="Prediction Result" width="800"/>
+  <img src="screenshot/image.png" alt="Prediction Result" width="800"/>
 </p>
 
 ## Overview
