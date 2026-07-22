@@ -6,4 +6,5 @@ xgboost
 xgboost
 scikit-learn
 flask
+gunicorn
 -e .
