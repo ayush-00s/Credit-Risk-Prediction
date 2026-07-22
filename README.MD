@@ -4,6 +4,15 @@ A machine learning pipeline and Flask web app that predicts the probability
 of serious loan delinquency within 2 years, based on the
 [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit) dataset.
 
+## 🚀 Live Demo
+
+🔗 https://credit-risk-prediction-coh9.onrender.com
+
+## 📸 Application Screenshot
+<p align="center">
+  <img src="images/result.png" alt="Prediction Result" width="800"/>
+</p>
+
 ## Overview
 
 This project trains a classification model to flag borrowers at risk of
